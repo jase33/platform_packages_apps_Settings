@@ -1,4 +1,1 @@
-platform_packages_apps_Settings
-===============================
-
-ThunderKat Settings Application
+Android Settings Application For ThunderKat
